@@ -59,7 +59,5 @@
 	<a href="https://instagram.com/lewisfnoguera"><img  idth="44" height="44" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
 </p>
 
------------
-* Credit: [lewisfnoguera](https://github.com/lewisfnoguera)
 
 
