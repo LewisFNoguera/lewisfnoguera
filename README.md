@@ -1,4 +1,4 @@
-![banner_lewis](https://github.com/LewisFNoguera/lewisfnoguera/assets/5133563/2af7ece1-8779-49c1-9b59-d7bb2d4c59ae)
+![banner_lewis](https://github.com/LewisFNoguera/lewisfnoguera/assets/5133563/2ea123bc-15df-470d-bf68-c2925c724f8c)
 
 
 ![](https://komarev.com/ghpvc/?username=lewisfnoguera&color=green)
@@ -55,8 +55,8 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="left">
-	<a href="https://linkedin.com/in/lewisnoguera"><img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/lewisfnoguera"><img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
+	<a href="https://linkedin.com/in/lewisnoguera"><img idth="44" height="44" src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/lewisfnoguera"><img  idth="44" height="44" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 -----------
