@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=lewisfnoguera&color=green)
 
 ## About me
-🔭 Hey, I'm Lewis from Cali, Colombia. I'm currently working as a Frontend Developer at *Monetta*, in **React**, **Angular** and **React-Native**.  
+🔭 Hey, I'm Lewis from Cali, Colombia. I'm currently working as a Fullstcack Developer.  
 
-🤓 I'm currently learning Backend technologies like **Nodejs** and **Nestjs**, also **PostgreSQL**.
+🤓 I'm currently learning Backend technologies like **Golad** and **Nestjs**.
 
 ⚡ I have the ability to design websites, app in **Figma** and develop them. I like to research and learn new technologies.
 
